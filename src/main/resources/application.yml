@@ -1,0 +1,16 @@
+server:
+  port: 8083
+
+# ÊÇ·ñ¿ªÆô swagger
+swagger:
+  enable: true
+
+ssh1:
+  ip: 192.168.110.106
+  username: root
+  password: 123456
+  port: 22
+  path: /opt/zsl/uploadFiles/zw
+
+uploadPaths:
+  G:/zsl/08
